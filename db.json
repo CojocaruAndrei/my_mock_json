@@ -8,13 +8,14 @@
   "aboutme-main": [
     {
       "title": "AboutMeMainText",
-      "value": "Hello, I'm Andrei, and I'm 24 years old. Here you'll find some details about me to get to know me better"
+      "value": "1. React.js\\n 2. JSX \\n3. JavaScript \\n4. Cascading Style Sheets (CSS)\\n 5. SASS \\n6. PrimeReact \\n7. Material UI \\n 8. Formik \\n 9. Yup \\n 10. Axios \\n 11. Redux Toolkit \\n 12. TypeScript \\n 13. Firebase \\n 14. VS Code \\n 15. GitHub"
     }
   ],
   "aboutme-volunteer": [
     {
       "title": "AboutMeVolunteering",
-      "value": "Since I was a child, I have been involved in volunteering organizations where we participated in charity events and environmental clean-up activities. That's why, as soon as I got to college, I joined the FIRESC association, where I managed to hold a leadership position for two years. There, we organized events for students and provided support for the activities that the faculty had."
+      "value": "Volunteering in Student Union Romania from November 2018-present\\nVolunteering in student association FIRESC at university 2018 - 2022 \\n Secretary in board at student association FIRESC 2019 - 2022 \\n Volunteering at Hard & Soft at Universitatea „Stefan cel Mare” \\n Volunteering at VideoArt and UNICA festival 2016 "
+
     }
   ],
   "aboutme-university": [
