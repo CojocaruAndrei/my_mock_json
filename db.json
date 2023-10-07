@@ -1,27 +1,32 @@
-[
-  {
-    "id": 1,
-    "title_home": "HomePageText",
-    "value_home": "HI, MY NAME IS ANDREI COJOCARU AND I'M A SOFTWARE DEVELOPER"
-  },
-  {
-    "id": 2,
-    "title_main": "AboutMeMainText",
-    "value_main": "Hello, I'm Andrei, and I'm 24 years old. Here you'll find some details about me to get to know me better"
-  },
-  {
-    "id": 3,
-    "title_vol": "AboutMeVolunteering",
-    "value_vol": "Since I was a child, I have been involved in volunteering organizations where we participated in charity events and environmental clean-up activities. That's why, as soon as I got to college, I joined the FIRESC association, where I managed to hold a leadership position for two years. There, we organized events for students and provided support for the activities that the faculty had."
-  },
-  {
-    "id": 4,
-    "title_univ": "AboutMeUniversity",
-    "value_univ": "I graduated from Stefan cel Mare University with a Bachelor's degree in Computer Science."
-  },
-  {
-    "id": 5,
-    "title_deg": "AboutBachelorDeg",
-    "value_deg": "My bachelor degree consisted in the design of an intelligent system to control of a tarpaulin for terraces. The aim of the project was to develop and implement an embedded system aiming to automate and simplify a human action. The system uses a rain sensor to close or open the tarpaulins depending on the weather outside, a set of buttons for its manual operation and a mobile application for a remote control. For that I used a Raspberry Pi because I could use the multi‑Threading part and a wireless connection with the phone. To make the project I used Python and Thonny IDE for programming the Raspberry PI and for the mobile application I used Android Studio with Java."
-  }
-]
+{
+  "aboutme-intro": [
+    {
+      "title": "HomePageText",
+      "value": "HI, MY NAME IS ANDREI COJOCARU AND I'M A SOFTWARE DEVELOPER"
+    }
+  ],
+  "aboutme-main": [
+    {
+      "title": "AboutMeMainText",
+      "value": "Hello, I'm Andrei, and I'm 24 years old. Here you'll find some details about me to get to know me better"
+    }
+  ],
+  "aboutme-volunteer": [
+    {
+      "title": "AboutMeVolunteering",
+      "value": "Since I was a child, I have been involved in volunteering organizations where we participated in charity events and environmental clean-up activities. That's why, as soon as I got to college, I joined the FIRESC association, where I managed to hold a leadership position for two years. There, we organized events for students and provided support for the activities that the faculty had."
+    }
+  ],
+  "aboutme-university": [
+    {
+      "title": "AboutMeUniversity",
+      "value": "I graduated from Stefan cel Mare University with a Bachelor's degree in Computer Science."
+    }
+  ],
+  "aboutme-degree": [
+    {
+      "title": "AboutBachelorDeg",
+      "value": "My bachelor degree consisted in the design of an intelligent system to control of a tarpaulin for terraces. The aim of the project was to develop and implement an embedded system aiming to automate and simplify a human action. The system uses a rain sensor to close or open the tarpaulins depending on the weather outside, a set of buttons for its manual operation and a mobile application for a remote control. For that I used a Raspberry Pi because I could use the multi‑Threading part and a wireless connection with the phone. To make the project I used Python and Thonny IDE for programming the Raspberry PI and for the mobile application I used Android Studio with Java."
+    }
+  ]
+}
