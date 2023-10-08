@@ -8,20 +8,20 @@
   "aboutme-main": [
     {
       "title": "AboutMeMainText",
-      "value": "1. React.js"
-      "value1": "2. JSX "
-      "value2": "3. JavaScript"
-      "value3": "4. Cascading Style Sheets (CSS)"
-      "value4": "5. SASS"
-      "value5": "6. PrimeReact"
-      "value6": "7. Material UI"
-      "value7": "8. Formik"
-      "value8": "9. Yup"
-      "value9": "10. Axios"
-      "value10": "11. Redux Toolkit"
-      "value11": "12. TypeScript"
-      "value12": "13. Firebase"
-      "value13": "14. VS Code"
+      "value": "1. React.js",
+      "value1": "2. JSX ",
+      "value2": "3. JavaScript",
+      "value3": "4. Cascading Style Sheets (CSS)",
+      "value4": "5. SASS",
+      "value5": "6. PrimeReact",
+      "value6": "7. Material UI",
+      "value7": "8. Formik",
+      "value8": "9. Yup",
+      "value9": "10. Axios",
+      "value10": "11. Redux Toolkit",
+      "value11": "12. TypeScript",
+      "value12": "13. Firebase",
+      "value13": "14. VS Code",
       "value14": "15. GitHub"
     }
     
