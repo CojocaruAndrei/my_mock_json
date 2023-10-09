@@ -44,7 +44,9 @@
   "aboutme-university": [
     {
       "title": "AboutMeUniversity",
-      "value": "I graduated from Stefan cel Mare University with a Bachelor's degree in Computer Science."
+      "value": "I graduated from Stefan cel Mare University with a Bachelor's degree in Computer Science.",
+      "value1":"During university, I participated in a team project to redesign our public transport website. Following that, I had a group internship at ASSIST Software as a front-end developer. Later, I undertook an individual internship at the same company, further enhancing my front-end development skills. These experiences were crucial in shaping my career as a web developer."
+      
     }
   ],
   "aboutme-degree": [
